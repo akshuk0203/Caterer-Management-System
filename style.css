@@ -1,0 +1,27 @@
+.container{
+	height:700px; width:1500px ;position:relative
+}
+.welcome_text
+{
+	position:absolute; top:120px; left:350px; color:silver; font-size:50px;
+	
+}
+
+.title
+{
+	position:absolute; bottom:150px; left:50px; color:#fff; font-size:53px;
+}
+.login_text{
+	
+	position:absolute; top:270px; left:400px; color:silver; font-size:30px;
+}
+
+#admin{
+	
+	position:absolute; top:320px; left:330px; font-size:30px;
+}
+
+#user{
+	
+	position:absolute; top:320px; left:470px; font-size:30px;
+}
